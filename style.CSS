@@ -1,0 +1,33 @@
+
+
+form{
+    border-collapse: collapse;
+    width: 30%;
+    border: 3px solid black;
+    padding: 50px;
+    margin: 50px auto;
+    top: 25px;
+    background-color: rgb(15, 108, 148);
+}
+input{
+    background-color: rgb(180, 176, 176);
+    font-style: normal;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 5px;
+    width: 90%;
+    padding: 7px;
+    }
+h2{
+    text-align: center;
+    margin-top: 10px;
+}
+ #send{
+    border: 3px solid black;
+    cursor: pointer;
+    padding: 10px;
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 10px;
+}
